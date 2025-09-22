@@ -3,7 +3,9 @@ title: About
 type: about
 ---
 
-<p align="center"><img src="/cape/images/usie.jpg"></p>
+<p align="center"><img src="/cape/images/20250919_dp_creation.jpeg"></p>
+
+<p align="center"><em>慶祝資料保護組成立，2025年9月19日攝於臺南阿菊食堂 / Celebrating the establishment of the Data Protection Team, photographed at A-Ju Restaurant in Tainan on September 19, 2025</em></p>
 
 ## 我們是誰 / Who We Are
 
@@ -119,14 +121,18 @@ Our multidisciplinary team includes:
 
 ### 前團隊成員 / Alumni
 
-* **Alex Chen** (Dec. 2023 ~ Feb. 2025)
-  * 資料科學家 / Data Scientist
-  * 貝氏統計學家 / Bayesian Statistician
-  * 隱私強化技術專家 / Expert in Privacy-Enhancing Technologies
+* **Jojo Chien** (Apr. ~ Sep. 2025)
+  * 專案經理 / Program Manager
+  * 專案協調與客戶關係專家 / Project Coordination and Client Relations Specialist
 
 * **Joanne Chang** (Dec. 2023 ~ Apr. 2025)
   * 專案經理 / Program Manager
   * 專案協調與客戶關係專家 / Project Coordination and Client Relations Specialist
+
+* **Alex Chen** (Dec. 2023 ~ Feb. 2025)
+  * 資料科學家 / Data Scientist
+  * 貝氏統計學家 / Bayesian Statistician
+  * 隱私強化技術專家 / Expert in Privacy-Enhancing Technologies
 
 ## 聯絡我們 / Contact Us
 

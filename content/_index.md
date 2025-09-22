@@ -17,17 +17,17 @@ toc: false
 Starting August 1, 2025, we have officially rebranded from **CAPE (Confidential Analysis Privacy Enhancement)** to **DP (Data Protection Team)**. This transition reflects our expanded service scope—evolving from our initial focus on confidential data analysis and privacy enhancement technologies to providing comprehensive data protection solutions. Our new name more directly communicates our core mission: delivering complete data protection strategies and practices for organizations.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 30px 0; padding: 20px; background: #f5f5f5; border-radius: 10px;">
-  <img src="/images/dp_logo_2.png" alt="DP Logo" style="width: 100px; height: auto;">
-  <img src="/images/dp_logo_2_black.png" alt="DP Logo Black" style="width: 100px; height: auto;">
-  <img src="/images/dp_logo_2_white.png" alt="DP Logo White" style="width: 100px; height: auto; background: #333; padding: 10px; border-radius: 5px;">
+  <img src="/cape/images/dp_logo_2.png" alt="DP Logo" style="width: 100px; height: auto;">
+  <img src="/cape/images/dp_logo_2_black.png" alt="DP Logo Black" style="width: 100px; height: auto;">
+  <img src="/cape/images/dp_logo_2_white.png" alt="DP Logo White" style="width: 100px; height: auto; background: #333; padding: 10px; border-radius: 5px;">
 </div>
 
 <p style="text-align: center; font-style: italic; margin: 20px 0;">
   <span style="display: block; margin-bottom: 10px;">
-    <strong>Logo 設計理念：</strong>我們沿用 CAPE 時代為隱私加上斗篷的設計概念，象徵持續為資料保護提供屏障。
+    <strong>Logo、：</strong>沿用 CAPE 時代為隱私加上斗篷的設計概念，持續為資料保護提供屏障。
   </span>
   <span style="display: block;">
-    <strong>Logo Design Concept:</strong> We retain the design concept from our CAPE era—a cloak of privacy—symbolizing our continued commitment to providing a protective barrier for data.
+    <strong>Logo:</strong> Retaining the design concept from our CAPE era—a cape of privacy—symbolizing our continued commitment to providing a protective barrier for data.
   </span>
 </p>
 

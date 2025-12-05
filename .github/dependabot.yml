@@ -12,7 +12,7 @@ updates:
       timezone: Asia/Taipei
     target-branch: "main"
     assignees:
-      - "DP"
+      - "charliie-dev"
     commit-message:
       prefix: "chore(ci.deps)"
     groups:

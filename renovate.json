@@ -1,6 +1,10 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "description": "go.mod is a Hugo module with no Go package: go mod tidy cannot see the hextra import in hugo.yaml and deletes its require and go.sum entries, so the org preset's gomod-tidy sub-preset is ignored.",
   "extends": [
     "github>nics-dp/meta:renovate-preset"
+  ],
+  "ignorePresets": [
+    "github>nics-dp/meta:renovate-gomod-tidy"
   ]
 }
